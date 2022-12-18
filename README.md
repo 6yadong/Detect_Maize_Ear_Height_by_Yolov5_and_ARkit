@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/77708395/208295011-8d3663ed-8251-45cb-b393-b3c03d54be12.png)
 
 
-# reference
+# Reference:
 https://github.com/pytorch/ios-demo-app/tree/master/ObjectDetection
 
 https://github.com/ultralytics/yolov5
